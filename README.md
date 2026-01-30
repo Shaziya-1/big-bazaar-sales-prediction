@@ -7,7 +7,6 @@ A Machine Learning based web application designed to analyze historical retail s
 ## 📌 Project Details
 
 - **Domain:** Machine Learning  
-- **Internship:** Naviotech Solutions  
 - **Developed By:** Sajiya Shaikh  
 
 ---
