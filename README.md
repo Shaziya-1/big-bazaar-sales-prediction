@@ -5,72 +5,63 @@ A Machine Learning based web application designed to analyze historical retail s
 ---
 
 ## 📌 Project Details
-
-- **Domain:** Machine Learning  
-- **Internship:** Naviotech Solutions  
-- **Developed By:** Sajiya Shaikh  
+Domain: Machine Learning  
+Internship: Naviotech Solutions  
+Developed By: Sajiya Shaikh  
 
 ---
 
 ## 🎯 Project Objective
-
-The main objective of this project is to:
 - Analyze Big Bazaar sales data
 - Identify trends and patterns
-- Predict future sales using machine learning concepts
-- Provide business insights through visual dashboards
+- Predict future sales using ML concepts
+- Provide business insights through dashboards
 - Generate downloadable sales prediction reports
 
 ---
 
 ## 🧠 Machine Learning Approach
-
 - Data preprocessing and feature selection
 - Regression-based prediction logic
-- Key prediction factors:
-  - Item Price
-  - Item Category
-  - Outlet Size
-  - Outlet Location Type
-  - Year
+- Prediction factors:
+  Item Price, Item Category, Outlet Size, Outlet Location Type, Year
 - Output: Predicted Sales Value
 
 ---
 
 ## 📊 Key Features
-
 - Interactive Dashboard (KPIs & Trends)
-- Deep Sales Analysis (Category, Region, Demographics)
+- Sales Analysis (Category & Region)
 - Sales Prediction Module
-- Excel Report Download
+- Downloadable Excel Reports
 - Business Insights & Recommendations
-- User-friendly UI with orange-themed design
 
 ---
 
-## 🛠️ Technology Stack
-
-### Frontend
-- React.js
-- Chart.js
-- Axios
-
-### Backend
-- Node.js
-- Express.js
-
-### Tools & Libraries
-- XLSX (Excel report generation)
-- Git & GitHub (Version Control)
+## 🛠 Technology Stack
+Frontend: React.js, Chart.js, Axios  
+Backend: Node.js, Express.js  
+Tools: XLSX, Git, GitHub  
 
 ---
 
-## ▶️ How to Run the Project
+How to run (comments only):
+Go to backend folder  
+Run npm install  
+Run node server.js  
+Go to frontend folder  
+Run npm install  
+Run npm start  
 
-### Step 1: Run Backend
-```bash
-cd backend
-npm install
-node server.js
+---
 
-// Developed by Sajiya Shaikh
+## 📸 Screenshots
+<div align="center">
+  <img src="images/dashboard.png" width="800"/>
+  <img src="images/analysis.png" width="800"/>
+  <img src="images/sales-prediction.png" width="800"/>
+</div>
+
+---
+
+Developed by Sajiya Shaikh
